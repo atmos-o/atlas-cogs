@@ -1,0 +1,12 @@
+{
+  "author" : ["Atmos"],
+  "install_msg": "[p]dl & [p]dlt.",
+  "short": "Allow users to download with Yt-DLP",
+  "description": "Allow users to download with Yt-DLP. Even supplying time frame using `[p]dlt`",
+  "tags": [
+    "video",
+    "download",
+    "backup"
+  ],
+  "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}

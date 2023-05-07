@@ -1,0 +1,14 @@
+{
+  "author": [
+    "ATMOS#0101"
+  ],
+  "install_msg": "[p]nitadd",
+  "short": "Make Nitro Booster react roles exclusive",
+  "description": "Nitro Booster exclusive roles will remove any roles when one stops boosting the server",
+  "tags": [
+    "nitro",
+    "booster",
+    "color"
+  ],
+  "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}
