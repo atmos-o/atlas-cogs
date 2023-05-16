@@ -46,7 +46,8 @@ class YTDLP(commands.Cog):
             max_file_size = 25000000
 
         # Set the output path based on the server name.
-        cache_folder = "/data/cogs/CogManager/cogs/ytdlp/cache/"
+        cog_folder = os.path.dirname(os.path.abspath(__file__))
+        cache_folder = os.path.join(cog_folder, "cache")
         server_name = str(ctx.guild.id)
         output_path = os.path.join(cache_folder, server_name)
         ext = ".mp4"
@@ -134,7 +135,7 @@ class YTDLP(commands.Cog):
                 await ctx.send(f"{role.name} is not currently allowed to use this command.")
 
 
-# # # 2nd
+
 
     @commands.command()
     async def dlt(self, ctx, url: str, start: int, end: int):
