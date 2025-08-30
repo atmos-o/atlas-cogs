@@ -1,6 +1,6 @@
 {
-    "author" : ["hengoo"],
-    "install_msg" : "From King Gooner himself.",
+    "author" : ["hengoo", "atmos."],
+    "install_msg" : "From King Gooner himself (with my tweaks).",
     "name" : "randococks",
     "short" : "Random Cock roll",
     "description" : "Roll to get monthly cock sizes.",
