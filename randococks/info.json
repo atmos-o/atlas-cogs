@@ -1,0 +1,9 @@
+{
+    "author" : ["hengoo"],
+    "install_msg" : "From King Gooner himself.",
+    "name" : "randococks",
+    "short" : "Random Cock roll",
+    "description" : "Roll to get monthly cock sizes.",
+    "tags" : ["Raffle", "Giveaway", "Lottery"],
+    "end_user_data_statement": "This cog does not persistently store data or metadata about users."
+}
